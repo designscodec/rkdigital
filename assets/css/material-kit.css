@@ -6832,7 +6832,7 @@ select[data-dropdownjs][disabled] + .dropdownjs > input[readonly] {
 }
 
 .features-3 .phone-container {
-    max-width: 200px;
+    /* max-width: 200px; */margin-top: 90px !important;
     margin: 0 auto;
 }
 
